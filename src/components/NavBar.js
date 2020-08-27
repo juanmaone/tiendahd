@@ -18,7 +18,7 @@ class NavBar extends React.Component {
             
           </Nav>
           <Form inline>
-            <Button variant="primary"><span>Comprar</span><Cart name="cartIcon" /></Button>
+            <Button variant="primary"><span>Comprar</span>   <Cart name="cartIcon" /></Button>
           </Form>
         </Navbar.Collapse>
       </Navbar>
